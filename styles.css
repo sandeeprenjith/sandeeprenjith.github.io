@@ -96,12 +96,16 @@ color: SteelBlue;
 .dropdown {
     position: relative;
     display: inline-block;
-    background-color: DarkSlateGray;
-    width: 100%;
-    height: 20px;
-    padding:10px;
+
+
 }
 
+.menubar{
+width: 100%;
+    height: 20px;
+    padding:10px;
+    background-color: DarkSlateGray;
+}
 .dropdown-content {
     display: none;
     position: absolute;
