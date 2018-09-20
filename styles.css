@@ -1,0 +1,81 @@
+h1{
+    color: white ;
+    padding-left: 10px;
+}
+h2{
+    color: white ;
+    padding-left: 10px;
+}
+
+h3{
+    color: DarkSlateGray;
+    text-indent: 10px;
+}
+h4{
+    color: DarkSlateGray;
+    text-indent: 10px;
+}
+h5{
+    color: DarkSlateGray;
+    text-indent: 10px;
+}
+h4.c1{
+    color: DarkCyan;
+    text-indent: 10px;
+}
+h4.c2{
+    color: DimGray;
+    text-indent: 10px;
+}
+
+
+body {
+    background-image: url("images/code-white.jpg");
+    font-family: Courier;
+
+}
+
+.profile{
+    float: right;
+    align: right;
+    width:250px;
+    border-radius: 50px;
+    padding: 15px
+}
+
+.left{
+float: left
+}
+
+.right{
+float: right
+}
+
+
+div.header{
+background-color: CadetBlue ;
+background-image: linear-gradient(DarkSlateGray, cadetblue);
+height: 190px;
+width: 100%;
+padding: 10px;
+
+
+}
+
+div.content{
+background-color: white;
+left-padding: 10px;
+width: 70%;
+border-radius: 4%;
+}
+
+
+p{
+margin-left: 20px;
+margin-right: 20px;
+color: SteelBlue;
+}
+
+ul{
+color: SteelBlue;
+}
