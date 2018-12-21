@@ -1,5 +1,6 @@
 ---
-title: Sandeep Renjith 
+title: "Sandeep Renjith"
+layout: page 
 ---
 ## Sr Escalation Engineer - Infoblox
 
@@ -48,4 +49,7 @@ DNS Anycast learning environment with Docker
 
 https://bitbucket.org/rensande/dns-anycast-lab
 
-
+### Skills
+| Skill | Level |
+| ----- | ----- |
+| 
