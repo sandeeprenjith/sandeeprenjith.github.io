@@ -2,7 +2,7 @@
 title: "Sandeep Renjith"
 ---
 ## Sr Escalation Engineer (Tier 3) - Infoblox
-<a href="Sandeep_Renjith_Resume.pdf" target="_blank">Download PDF Resume</a>
+<a href="Sandeep_Renjith_Resume.pdf" target="_blank">Download PDF Resume (with contact details) </a>
 
 ### Current Profile
 
