@@ -49,20 +49,20 @@ DNS Anycast learning environment with Docker
 [View project on Bitbucket](https://bitbucket.org/rensande/dns-anycast-lab)
 
 ### Skills
-| Skill | Level |
-| ----- | ----- |
-| DNS | Proficient |
-| DHCP | Proficient |
-| Python | Proficient |
-| Docker | Above intermediate |
-| Linux | Above intermediate |
-| BASH | Above intermediate |
-| Azure | Above intermediate |
-| SNMP | Above intermediate |
+| Skill      | Level              |
+| ---------- | ------------------ |
+| DNS        | Proficient         |
+| DHCP       | Proficient         |
+| Python     | Proficient         |
+| Docker     | Above intermediate |
+| Linux      | Above intermediate |
+| BASH       | Above intermediate |
+| Azure      | Above intermediate |
+| SNMP       | Above intermediate |
 | Kubernetes | Above intermediate |
-| AWS | Intermediate |
-| Openstack | Intermediate |
-| Go | Intermediate |
-| HTML | Intermediate |
-| CSS | Intermediate |
-| Perl | Intermediate |
+| AWS        | Intermediate       |
+| Openstack  | Intermediate       |
+| Go         | Intermediate       |
+| HTML       | Intermediate       |
+| CSS        | Intermediate       |
+| Perl       | Intermediate       |
