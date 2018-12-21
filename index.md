@@ -22,12 +22,12 @@ Key role in creation of several automation solution for Infoblox Support such as
  
 #### Relevant Projects
 
-***MDCMS*** (Markdown Content Management System)
+**MDCMS** (Markdown Content Management System)
 
 MDCMS is a content management system with which a simple blogging website can be deployed within minutes.
 MDCMS is written in Go.
 
-***Links:***
+**Links:**
 
 * [Project](https://github.com/sandeeprenjith/mdcms)
 
@@ -38,14 +38,14 @@ MDCMS is written in Go.
 * [Precompiled binaries (Windows, Linux, Mac )](http://www.bytesarena.com/downloads/)
 
 
-***DNSSEC and Infoblox***
+**DNSSEC and Infoblox**
 
 Most recent article in Infoblox Community.
 
 [Read Article](https://community.infoblox.com/t5/Best-Practices/DNSSEC-and-Infoblox/ba-p/13076)
 
 
-***DNS Anycast Lab***
+**DNS Anycast Lab**
 
 DNS Anycast learning environment with Docker
 
@@ -78,11 +78,11 @@ DNS Anycast learning environment with Docker
 *Jan 2015 - Jan 2017*
 
 #### Technical Support Engineer
-***Infoblox***(As a contracter under the payroll of ASM Technologies)
+**Infoblox**(As a contracter under the payroll of ASM Technologies)
 
 Worked at Infoblox as a contractor from ASM Technologies Ltd in the role of Technical Support Engineer.
 
-***Roles and Responsibilities***
+**Roles and Responsibilities**
 
 * Assisting customers of Infoblox with technical issues and configuration relating to Infoblox Products as well as protocol services such as DNS, DHCP, NTP, SNMP  etc. via phone and email.
 * Assisting customers with Infoblox integration with products from various vendors.
@@ -92,11 +92,11 @@ Worked at Infoblox as a contractor from ASM Technologies Ltd in the role of Tech
 *Oct 2012 - Dec 2014*
 
 #### Sr Consultant, Technical Support
-***Sutherland Global Services***
+**Sutherland Global Services**
 
 Worked at Sutherland Global Services as a Tier-2 Technical Support Consultant for the client McAfee.
 
-***Roles and Responsibilities***
+**Roles and Responsibilities**
 
 * Assisting customers of McAfee home antivirus products with technical issues over phone, chat and email.
 * Handling technical escalations.
@@ -107,4 +107,4 @@ Worked at Sutherland Global Services as a Tier-2 Technical Support Consultant fo
 *May 2009 - April 2012*
 
 #### Bachelor of Commerce
-***Baselius College / Mahatma Gandhi University***
+**Baselius College / Mahatma Gandhi University**
