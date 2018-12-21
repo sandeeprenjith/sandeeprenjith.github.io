@@ -1,6 +1,5 @@
 ---
 title: "Sandeep Renjith"
-layout: page 
 ---
 ## Sr Escalation Engineer - Infoblox
 
@@ -40,14 +39,14 @@ MDCMS is written in Go.
 
 Most recent article in Infoblox Community.
 
-https://community.infoblox.com/t5/Best-Practices/DNSSEC-and-Infoblox/ba-p/13076
+[Read Article](https://community.infoblox.com/t5/Best-Practices/DNSSEC-and-Infoblox/ba-p/13076)
 
 
 ***DNS Anycast Lab***
 
 DNS Anycast learning environment with Docker
 
-https://bitbucket.org/rensande/dns-anycast-lab
+[View project on Bitbucket](https://bitbucket.org/rensande/dns-anycast-lab)
 
 ### Skills
 | Skill | Level |
