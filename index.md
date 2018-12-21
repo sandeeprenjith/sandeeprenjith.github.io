@@ -1,7 +1,6 @@
 ---
-title: 
+title: Sandeep Renjith 
 ---
-# Sandeep Renjith
 ## Sr Escalation Engineer - Infoblox
 
 ### Current Profile
@@ -27,13 +26,13 @@ MDCMS is written in Go.
 
 ***Links:***
 
-* Project:  https://github.com/sandeeprenjith/mdcms
+* [Project](https://github.com/sandeeprenjith/mdcms)
 
-* Docker: https://hub.docker.com/r/rensande/mdcms/
+* [Docker](https://hub.docker.com/r/rensande/mdcms/)
 
-* Example site built with MDCMS: http://www.bytesarena.com
+* [Example site built with MDCMS](http://www.bytesarena.com)
 
-* Precompiled binaries (Windows, Linux, Mac ): http://www.bytesarena.com/downloads/
+* [Precompiled binaries (Windows, Linux, Mac )](http://www.bytesarena.com/downloads/)
 
 
 ***DNSSEC and Infoblox***
