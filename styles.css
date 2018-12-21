@@ -2,6 +2,11 @@
 	width: 100%;
 	height: 10%;
 }
+.header {
+
+	background-color: darkslategrey;
+	color: white;
+}
 .body_row {
 	width: 100%;
 	height: 90%
