@@ -68,9 +68,3 @@ DNS Anycast learning environment with Docker
 |CSS       |Intermediate      |
 |AWS       |Intermediate      |
 |Perl      |Intermediate      |
-
-|Data (a)|Private Key (b)|Signing Algorithm                                    |Hash|
-|--------|---------------|-----------------------------------------------------|----|
-|abcd    |3              |add ‘b’ number or characters to each character in ‘a’|efgh|
-
-<embed><iframe>https://wordart.com/aez2ql4gioee/word-art</iframe></embed>
