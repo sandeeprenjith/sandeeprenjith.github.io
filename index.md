@@ -69,4 +69,3 @@ DNS Anycast learning environment with Docker
 |Perl      |Intermediate      |
 
 
-test
