@@ -78,7 +78,7 @@ DNS Anycast learning environment with Docker
 *Jan 2015 - Jan 2017*
 
 #### Technical Support Engineer
-****Infoblox***(As a contracter under the payroll of ASM Technologies)
+***Infoblox***(As a contracter under the payroll of ASM Technologies)
 
 Worked at Infoblox as a contractor from ASM Technologies Ltd in the role of Technical Support Engineer.
 
