@@ -16,7 +16,9 @@
 	height: 100%;
 	width: 25%;
 	background-color: darkslategrey;
-	color: white;	
+	color: white;
+	text-align: center;
+	vertical-align: top;
 }
 .left_small_column {
 	width: 25%;
