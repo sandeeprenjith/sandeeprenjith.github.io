@@ -53,7 +53,7 @@ DNS Anycast learning environment with Docker
 
 ### Skills
 
-|Skill     | Level            |
+|##### Skill     | ###### Level            |
 |----------|------------------|
 |DNS       |Proficient        |
 |DHCP      |Proficient        |
