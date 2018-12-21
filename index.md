@@ -1,9 +1,12 @@
 ---
 title: "Sandeep Renjith"
 ---
-## Sr Escalation Engineer - Infoblox
+## Sr Escalation Engineer (Tier 3) - Infoblox
+
 
 ### Current Profile
+
+*Jan 2017 - Present*
 
 Part of support tiger teams for handling customer issues for certain critical accounts on specific products and features. Providing training, guidance and mentoring for Tier-1 and Tier-2 engineers. Creating training content and learning paths for Infoblox products and features. Creating KB articles. Reviewing and publishing KB articles created by Tier-1 and Tier-2 engineers.
 
@@ -68,3 +71,40 @@ DNS Anycast learning environment with Docker
 |CSS       |Intermediate      |
 |AWS       |Intermediate      |
 |Perl      |Intermediate      |
+
+### Experience
+
+
+*Jan 2015 - Jan 2017*
+
+#### Technical Support Engineer
+****Infoblox***(As a contracter under the payroll of ASM Technologies)
+
+Worked at Infoblox as a contractor from ASM Technologies Ltd in the role of Technical Support Engineer.
+
+***Roles and Responsibilities***
+
+* Assisting customers of Infoblox with technical issues and configuration relating to Infoblox Products as well as protocol services such as DNS, DHCP, NTP, SNMP  etc. via phone and email.
+* Assisting customers with Infoblox integration with products from various vendors.
+* Creating internal as well as customer facing KB articles.
+
+
+*Oct 2012 - Dec 2014*
+
+#### Sr Consultant, Technical Support
+***Sutherland Global Services***
+
+Worked at Sutherland Global Services as a Tier-2 Technical Support Consultant for the client McAfee.
+
+***Roles and Responsibilities***
+
+* Assisting customers of McAfee home antivirus products with technical issues over phone, chat and email.
+* Handling technical escalations.
+* Providing training and guidance to Tier-1 Technical Support consultants regarding McAfee products and Operating Systems.
+
+### Education
+
+*May 2009 - April 2012*
+
+#### Bachelor of Commerce
+***Baselius College / Mahatma Gandhi University***
