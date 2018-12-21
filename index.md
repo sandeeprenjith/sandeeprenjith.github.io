@@ -65,4 +65,8 @@ DNS Anycast learning environment with Docker
 | Go         | Intermediate       |
 | HTML       | Intermediate       |
 | CSS        | Intermediate       |
+| AWS        | Intermediate       |
 | Perl       | Intermediate       |
+
+
+test
