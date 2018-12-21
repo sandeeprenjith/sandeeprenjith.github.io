@@ -14,7 +14,7 @@ Part of support tiger teams for handling customer issues for certain critical ac
 Functioning as Support SME on DNS, DNS Security, API, PKI,  SNMP and Infoblox integration with AWS, Azure, Openstack and VMware VRealize, Infoblox SaaS solutions and Infoblox Subscriber Services.
 
 
-Active member of Infoblox Experts Community.
+Active member of [Infoblox Experts Community](https://community.infoblox.com/t5/user/viewprofilepage/user-id/20850).
 
 
 Key role in creation of several automation solution for Infoblox Support such as tools for log analysis, a lab automation system for automated deployment and termination of Infoblox VMs on vCenter etc.
