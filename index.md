@@ -37,8 +37,6 @@ MDCMS is written in Go.
 
 * [Docker](https://hub.docker.com/r/rensande/mdcms/)
 
-* [Precompiled binaries (Windows, Linux, Mac )](http://www.bytesarena.com/downloads/)
-
 
 **DNSSEC and Infoblox**
 
