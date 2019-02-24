@@ -33,8 +33,6 @@ MDCMS is written in Go.
 
 * [Docker](https://hub.docker.com/r/rensande/mdcms/)
 
-* [Example site built with MDCMS](http://www.bytesarena.com)
-
 * [Precompiled binaries (Windows, Linux, Mac )](http://www.bytesarena.com/downloads/)
 
 
