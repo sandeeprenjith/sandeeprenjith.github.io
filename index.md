@@ -3,10 +3,7 @@ title: "Sandeep Renjith"
 ---
 ## Sr Escalation Engineer (Tier 3) - Infoblox
 
-[github](https://github.com/sandeeprenjith) | [linkedin](https://www.linkedin.com/in/sandeeprenjith) | [Website](https://bytesarena.com) | [Dockerhub](https://hub.docker.com/u/rensande)
-
-
-<a href="Sandeep_Renjith_Resume.pdf" target="_blank">Download PDF Resume</a>
+[github](https://github.com/sandeeprenjith) | [linkedin](https://www.linkedin.com/in/sandeeprenjith) | [Website](https://bytesarena.com) | [Dockerhub](https://hub.docker.com/u/rensande) | <a href="Sandeep_Renjith_Resume.pdf" target="_blank">Download PDF Resume</a>
 
 ### Current Profile
 
