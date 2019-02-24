@@ -1,5 +1,6 @@
 ---
 title: "Sandeep Renjith"
+logo: profile.jpg
 ---
 ## Sr Escalation Engineer (Tier 3) - Infoblox
 
